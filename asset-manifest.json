@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/proyecto122/static/css/main.8e23d990.css",
+    "main.js": "/proyecto122/static/js/main.1b37cb8d.js",
+    "static/js/787.ad403f68.chunk.js": "/proyecto122/static/js/787.ad403f68.chunk.js",
+    "static/media/museovid.mp4": "/proyecto122/static/media/museovid.49b0c487130e6a17a818.mp4",
+    "static/media/museo21.jpg": "/proyecto122/static/media/museo21.33987890e072a50127ba.jpg",
+    "static/media/museo24.gif": "/proyecto122/static/media/museo24.229dea686b472fd0a445.gif",
+    "static/media/museo14.jpg": "/proyecto122/static/media/museo14.8a946641ca23eaf4c220.jpg",
+    "static/media/museo20.jpg": "/proyecto122/static/media/museo20.a7d5dc5509699b4e34fa.jpg",
+    "static/media/museo11.jpg": "/proyecto122/static/media/museo11.c4314e20952e39d88e5f.jpg",
+    "static/media/museo27.jpg": "/proyecto122/static/media/museo27.40de842e3db7964905ea.jpg",
+    "static/media/twit.jpg": "/proyecto122/static/media/twit.2d704ba28c8af94ccfa3.jpg",
+    "static/media/museo19.jpg": "/proyecto122/static/media/museo19.c7f7a02d1360c98b490a.jpg",
+    "static/media/museo8.jpg": "/proyecto122/static/media/museo8.ab69a811da5e72320edd.jpg",
+    "static/media/museo3.jpg": "/proyecto122/static/media/museo3.7896ca787cb35f6f678c.jpg",
+    "static/media/museo10.jpg": "/proyecto122/static/media/museo10.e17b16f698a7540ee2f6.jpg",
+    "static/media/museo16.jpg": "/proyecto122/static/media/museo16.ef7906a591f3768e69f3.jpg",
+    "static/media/museo1.jpg": "/proyecto122/static/media/museo1.9a8c7b7b796359f56bac.jpg",
+    "static/media/museo13.jpg": "/proyecto122/static/media/museo13.2bcc2ebccdffe96138f5.jpg",
+    "static/media/perro.gif": "/proyecto122/static/media/perro.be83fe7a0a91b3091042.gif",
+    "static/media/museo26.jpg": "/proyecto122/static/media/museo26.59a6204927f84606bad7.jpg",
+    "static/media/insta.jpg": "/proyecto122/static/media/insta.97c89de3f0de0b684445.jpg",
+    "static/media/museo15.jpg": "/proyecto122/static/media/museo15.0462a958718389d0b410.jpg",
+    "static/media/museo2.jpg": "/proyecto122/static/media/museo2.5d0f881b5e07f824dcce.jpg",
+    "static/media/museo12.jpg": "/proyecto122/static/media/museo12.07201a985448dbf66013.jpg",
+    "static/media/face.jpg": "/proyecto122/static/media/face.5a31c82446a240ba9626.jpg",
+    "static/media/museo9.jpg": "/proyecto122/static/media/museo9.ec8b7b5de83b9412d311.jpg",
+    "static/media/museo23.jpeg": "/proyecto122/static/media/museo23.00d29eedda679e3495ef.jpeg",
+    "static/media/museo25.jpeg": "/proyecto122/static/media/museo25.36302980cd9ddabde0e3.jpeg",
+    "static/media/museosim.png": "/proyecto122/static/media/museosim.d0e6c2ffe146af064f50.png",
+    "index.html": "/proyecto122/index.html",
+    "main.8e23d990.css.map": "/proyecto122/static/css/main.8e23d990.css.map",
+    "main.1b37cb8d.js.map": "/proyecto122/static/js/main.1b37cb8d.js.map",
+    "787.ad403f68.chunk.js.map": "/proyecto122/static/js/787.ad403f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e23d990.css",
+    "static/js/main.1b37cb8d.js"
+  ]
+}
